@@ -1,4 +1,4 @@
-Hello, I'm Pascal.
+Hello, I'm Pascal 👋
 
 💻 Java developer for around fifteen years, specializing in web application development, DevOps, and software architecture. I use my experience and expertise to support you in your projects, thus contributing to their success and their creation of value.
 
