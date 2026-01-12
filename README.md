@@ -8,6 +8,7 @@ Hello, I'm Pascal 👋
 
 Feel free to contact me to discuss further:
 
+- [LinkedIn](https://www.linkedin.com/in/pascalgrimaud/)
 - [GitHub](https://github.com/pascalgrimaud)
 - [Twitter](https://twitter.com/pascalgrimaud)
 - [StackOverflow](https://stackoverflow.com/)
